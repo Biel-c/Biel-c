@@ -34,4 +34,4 @@
 
 </div>
 
-![GitHub contribution grid snake animation](https://raw.githubusercontent.com/Biel-c/Biel-c/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Biel-c/Biel-c)
