@@ -37,4 +37,11 @@
 
 <br clear="both">
 
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biel-acouto/biel-acouto/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: white)" srcset="https://raw.githubusercontent.com/biel-acouto/biel-acouto/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/biel-acouto/biel-acouto/output/github-contribution-grid-snake.svg">
+</picture>
 
