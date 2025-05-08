@@ -32,6 +32,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Biel-c/Biel-c/output/snake.svg" alt="Snake animation" />
+![GitHub contribution grid snake animation](https://raw.githubusercontent.com/Biel-c/Biel-c/output/github-contribution-grid-snake.svg)
 
 ###
