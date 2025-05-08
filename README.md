@@ -32,6 +32,6 @@
 
 <br clear="both">
 
-![GitHub contribution grid snake animation](https://raw.githubusercontent.com/Biel-c/Biel-c/output/github-contribution-grid-snake.svg)
+</div>
 
-###
+![GitHub contribution grid snake animation](https://raw.githubusercontent.com/Biel-c/Biel-c/output/github-contribution-grid-snake.svg)
