@@ -7,8 +7,8 @@
 - Me chamo Gabriel Andrade, sou estudante do curso Ciências da computação no Centro Universitário de Brasília (CEUB). Um jovem muito interessado em tecnologia, sempre disposto e curioso àprender novas coisas e também empenhado.
 
 - 🔭 Atualmente estou em busca de estagios que sejam da minha área.
-- 🌱 Estou estudando C na faculadade e por fora estudando Python, porém procuro também estudar outras linguagens como Java e HTML.
--->
+- 🌱 Estou estudando C na faculadade e por fora, estudando Python, porém procuro estudar outras linguagens como Java e HTML.
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Biel-c&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
