@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9++Bem+vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
   
-- Meu nome é Gabriel Andrade, sou estudante do curso de Ciências da Computação no Centro Universitario de Brasília (CEUB).
+- Me chamo Gabriel Andrade, sou estudante do curso Ciências da computação no Centro Universitário de Brasília (CEUB). Um jovem muito interessado em tecnologia, sempre disposto e curioso àprender novas coisas e também empenhado.
 
 - 🔭 Atualmente estou em busca de estagios que sejam da minha área.
 - 🌱 Estou estudando C na faculadade e por fora estudando Python, porém procuro também estudar outras linguagens como Java e HTML.
